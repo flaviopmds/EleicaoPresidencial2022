@@ -32,6 +32,7 @@ VOTOS_BR %>% group_by(SG_PARTIDO) %>% summarise(QT_votos=sum(QT_VOTOS_NOMINAIS_V
     ),
     plot.title = element_text(size = 14)
   ) + scale_fill_manual(values = c("red","yellow","blue","gray"))
+  ```
 
 <!-- badges: end -->
 
