@@ -2,11 +2,11 @@
 # Eleição Presidencial 2022
 
 <!-- badges: start -->
-Motivado pelo trabalho final do curso de Visualização de dados do [curso-r](https://curso-r.com/), resolvi mostrar graficamente alguns resultados da eleição presidencial 2022, fazendo um comparativo entre os candidados Luís Inácio Lula da Silva e Jair Messias Bolsonaro, além de apresentar gráficos que comparam os resultados dessa eleição com as eleições passadas para presidentes. Os gráficos foram feitos no software Rstudio, utilizando o pacote ggplot2. Além disso, os dados foram retirados do site do [TSE](https://www.tse.jus.br/) e do [wikipedia](https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal). 
+Motivado pelo trabalho final do curso de Visualização de dados do [curso-r](https://curso-r.com/), resolvi mostrar graficamente alguns resultados da eleição presidencial 2022, fazendo um comparativo entre os candidados Luís Inácio Lula da Silva e Jair Messias Bolsonaro, além de apresentar gráficos que comparam os resultados dessa eleição com as eleições passadas para presidentes. Os gráficos foram feitos no software Rstudio, utilizando o pacote ggplot2, o script com a criação dos gráficos está no arquivo script_TRABFINAL.R . Além disso, vale destacar que os dados foram retirados do site do [TSE](https://www.tse.jus.br/) e do [wikipedia](https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal). 
 
 ## Análise de dados 1° turno
 
-O gráfico de barra apresenta os candidatos que tiveram mais de 100 milhões de votos no primeiro turno da eleição presidencial. 
+O gráfico de barra apresenta os candidatos que tiveram mais de 100 milhões de votos no primeiro turno da eleição presidencial. O candidato do PT, Lula, foi que mais recebeu voto, seguido do ex-presidente Jair Messias Bolsonaro, na terceira posição veio a candidata do partido MDB, Simone Tebet, Ciro Gomes veio em quarto lugar. Todos esses candidados receberam mais de um milhão de votos. 
 
 <img src="Votos_candidatos.png" align="center" width = "750px"/>
 
